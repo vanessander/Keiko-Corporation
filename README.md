@@ -1,3 +1,2 @@
 # keiko-corp
-The greatest company ever created by Bruno
-
+The greatest company ever created by Hassan
